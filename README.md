@@ -7,6 +7,7 @@ The App Insights Dashboard is an interactive business intelligence report built 
 
 This project demonstrates strong analytical thinking, data visualization skills, and the ability to translate raw data into actionable business insights.
 
+Project Link :- https://lookerstudio.google.com/s/jlWooypbgs4
 ---
 
 ## STAR Method Description
